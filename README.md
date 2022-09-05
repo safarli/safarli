@@ -2,7 +2,7 @@
 ## This is my personal Github Repo
 
 ### Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safarli)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My daily.dev DevCard :D
 <a href="https://app.daily.dev/safarli"><img src="./devcard.svg" width="400" alt="Bendali Safarli's Dev Card"/></a>
