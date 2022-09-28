@@ -6,17 +6,6 @@
 ### My daily.dev DevCard :D
 <a href="https://app.daily.dev/safarli"><img src="./devcard.svg" width="400" alt="Bendali Safarli's Dev Card"/></a>
 
-### Diagrams
-
-Mermaid
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
-
 <pre>
  ____   ____         __            _ _ 
 | __ ) / ___|  __ _ / _| __ _ _ __| (_)
