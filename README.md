@@ -3,6 +3,8 @@
 
 ### Statistics
 ![Safarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=safarli&show_icons=true&theme=cobalt)
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safarli)]
 ### My daily.dev DevCard :D
 <a href="https://app.daily.dev/safarli"><img src="./devcard.svg" width="400" alt="Bendali Safarli's Dev Card"/></a>
 
