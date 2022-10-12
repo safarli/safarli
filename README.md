@@ -1,6 +1,6 @@
 # Hello Universe!
 ## Personal Github Repo
-### Public repos are for hobby & practicing purposes (For real-world projects contact me)
+### Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
 
 ---
 
