@@ -1,5 +1,8 @@
 # Hello Universe!
-## This is my personal Github Repo
+## Personal Github Repo
+### Public repos are for hobby & practicing purposes
+
+---
 
 ### Statistics
 ![Safarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=safarli&show_icons=true&theme=cobalt)
