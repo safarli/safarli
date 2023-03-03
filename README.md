@@ -4,20 +4,6 @@
 
 ---
 
-### Statistics
-![Safarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=safarli&show_icons=true&theme=cobalt)
-### My daily.dev DevCard :D
-<a href="https://app.daily.dev/safarli"><img src="./devcard.svg" width="400" alt="Bendali Safarli's Dev Card"/></a>
-
-<pre>
- ____             __            _ _     ____          _ _   _           _     
-| __ ) ___  __ _ / _| __ _ _ __| (_)   / __ \    __ _(_) |_| |__  _   _| |__  
-|  _ \/ __|/ _` | |_ / _` | '__| | |  / / _` |  / _` | | __| '_ \| | | | '_ \ 
-| |_) \__ \ (_| |  _| (_| | |  | | | | | (_| | | (_| | | |_| | | | |_| | |_) |
-|____/|___/\__,_|_|  \__,_|_|  |_|_|  \ \__,_|  \__, |_|\__|_| |_|\__,_|_.__/ 
-                                       \____/   |___/                                                                      
-</pre>
-
 <div>
 <img alt="Languages" src="https://img.shields.io/badge/-Languages-000000?style=for-the-badge&logo=Plex&logoColor=white">
 <img src="https://img.shields.io/badge/C-39457E?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -55,3 +41,19 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
 </div>
+
+### Statistics
+![Safarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=safarli&show_icons=true&theme=cobalt)
+### My daily.dev DevCard :D
+<a href="https://app.daily.dev/safarli"><img src="./devcard.svg" width="400" alt="Bendali Safarli's Dev Card"/></a>
+
+<pre>
+ ____             __            _ _     ____          _ _   _           _     
+| __ ) ___  __ _ / _| __ _ _ __| (_)   / __ \    __ _(_) |_| |__  _   _| |__  
+|  _ \/ __|/ _` | |_ / _` | '__| | |  / / _` |  / _` | | __| '_ \| | | | '_ \ 
+| |_) \__ \ (_| |  _| (_| | |  | | | | | (_| | | (_| | | |_| | | | |_| | |_) |
+|____/|___/\__,_|_|  \__,_|_|  |_|_|  \ \__,_|  \__, |_|\__|_| |_|\__,_|_.__/ 
+                                       \____/   |___/                                                                      
+</pre>
+
+
