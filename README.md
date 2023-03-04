@@ -20,6 +20,8 @@ console.log('Welcome here');
 
 ---
 
+
+
 ## :earth_asia: Public repositories on my Github profile primarily serve hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me.
 
 ## <img src="turkish_flag.gif" height="22px"/> Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin.
@@ -171,6 +173,25 @@ console.log('Welcome here');
 ## Here are some of the most common programming paradigms
 
 <table><thead><tr><th>:computer: Programming Paradigm</th><th>:memo: Description</th></tr></thead><tbody><tr><td><strong>Imperative Programming</strong></td><td>Programming based on giving the computer a set of instructions to follow in order to accomplish a task.</td></tr><tr><td><strong>Declarative Programming</strong></td><td>Programming based on describing the problem to be solved, rather than providing step-by-step instructions.</td></tr><tr><td><strong>Functional Programming</strong></td><td>Programming based on writing functions that are designed to perform specific tasks, with little or no emphasis on the flow of control within the program.</td></tr><tr><td><strong>Object-Oriented Programming (OOP)</strong></td><td>Programming based on the use of objects that encapsulate data and functionality together, with an emphasis on abstraction, inheritance, and polymorphism.</td></tr><tr><td><strong>Event-Driven Programming</strong></td><td>Programming based on responding to events, such as user input, network messages, or timer events.</td></tr><tr><td><strong>Procedural Programming</strong></td><td>Programming similar to imperative programming, but with a focus on using procedures or functions to group related code together.</td></tr><tr><td><strong>Logic Programming</strong></td><td>Programming based on defining a set of rules or constraints, and using a solver or inference engine to find solutions that satisfy those rules or constraints.</td></tr></tbody></table>
+
+## OOP Concepts
+
+```mermaid
+graph TD;
+  A[OOP Concepts] --> B[Abstraction];
+  A --> C[Encapsulation];
+  A --> D[Inheritance];
+  A --> E[Polymorphism];
+  B --> F[Data Abstraction];
+  B --> G[Control Abstraction];
+  C --> H[Data Hiding];
+  C --> I[Implementation Hiding];
+  D --> J[Single Inheritance];
+  D --> K[Multilevel Inheritance];
+  D --> L[Multiple Inheritance];
+  E --> M[Overloading];
+  E --> N[Overriding];
+```
 
 ## Javascript Design Patterns
 
