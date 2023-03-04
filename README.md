@@ -191,6 +191,13 @@
 - Sadece projenin kapsamı ve amacıyla ilgili pull request'leri gönderin.
 - Projedeki son değişiklikleri takip edin ve katkılarınızı buna göre uyarlayın.
 
+---
+
+:heart: Best Regards!
+:heart: :tr: En iyi dileklerimle!
+
+---
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=safarli&&style=flat-square" align="center" />
 </div>
