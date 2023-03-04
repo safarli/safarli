@@ -2,11 +2,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 100px;" />
 </div>
 
-## Personal Github Repo
+## :boy: Personal Github Repo
 
-### Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
+### :earth_asia: Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
 
 ---
+
 <pre>
  ____             __            _ _     ____          _ _   _           _     
 | __ ) ___  __ _ / _| __ _ _ __| (_)   / __ \    __ _(_) |_| |__  _   _| |__  
@@ -15,6 +16,10 @@
 |____/|___/\__,_|_|  \__,_|_|  |_|_|  \ \__,_|  \__, |_|\__|_| |_|\__,_|_.__/ 
                                        \____/   |___/                                                                      
 </pre>
+
+:computer: Dealing with Computers, since 2004  
+:shield: Shield
+
 ---
 
 ## Currently Using
