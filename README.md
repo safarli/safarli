@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="safarlis_github.gif" align="center"/>
+</div>
+
 ```js
 console.log('Welcome here');
 ```
