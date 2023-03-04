@@ -1,5 +1,13 @@
 # :boy: Personal Github World
 
+---
+
+<div align="center">
+<img src="safarli.gif" align="center"/>
+</div>
+
+---
+
 <div align="center">
 <img src="helloworld.gif" align="center" style="" />
 </div>
