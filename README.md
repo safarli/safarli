@@ -306,6 +306,8 @@ classDiagram
   <li><code>const getFirstNElements = (arr, n) => arr.slice(0, n);</code> - Arrow function that returns the first n elements of an array.</li>
 </ul>
 
+<br>
+
 ## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin
 
 ### :scroll: The rules are as follows
