@@ -1,11 +1,7 @@
 # :boy: Personal Github Repo
 
-<!-- <div align="center">
-<img src="helloworld.gif" align="center" />
-</div> -->
-
 <div align="center">
-<img src="https://i.giphy.com/media/nM3pU1t3j5ikDN0NKH/giphy.webp" align="center" style="" />
+<img src="helloworld.gif" align="center" style="" />
 </div>
 
 ### :earth_asia: Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
