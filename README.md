@@ -193,8 +193,8 @@
 
 ---
 
-:heart: Best Regards!
-:heart: :tr: En iyi dileklerimle!
+:heart: Best Regards!  
+:heart: En iyi dileklerimle!  
 
 ---
 
