@@ -17,6 +17,8 @@
 </pre>
 ---
 
+## Currently Using
+
 <div>
 <img alt="Languages" src="https://img.shields.io/badge/-Languages-000000?style=for-the-badge&logo=Plex&logoColor=white">
 <img src="https://img.shields.io/badge/C-39457E?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -55,12 +57,12 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
 </div>
 
-## My Skill Set  
+## I've knowledge of
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### Frontend
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
