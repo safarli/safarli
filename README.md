@@ -16,6 +16,8 @@
 
 ## <img src="turkish_flag.gif" height="22px"/> Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin.
 
+---
+
 <pre>
  ____             __            _ _     ____          _ _   _           _     
 | __ ) ___  __ _ / _| __ _ _ __| (_)   / __ \    __ _(_) |_| |__  _   _| |__  
