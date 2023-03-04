@@ -179,6 +179,8 @@ console.log('Welcome here');
 
 ---
 
+<br>
+
 ## :large_blue_circle: Common terms for different stages of software testing and development
 
 <table><thead><tr><th>Term</th><th>Definition</th></tr></thead><tbody><tr><td>🏗️ Development build</td><td>A version of the software that is built for testing and debugging purposes during the development process. It may not have all the features or be completely stable, but it is used to test new code changes.</td></tr><tr><td>🐝 Beta version</td><td>A pre-release version of the software that is made available to a limited group of users to test and provide feedback on before the final release. This version is usually more stable than a development build, but may still have some bugs.</td></tr><tr><td>🚀 Release candidate</td><td>A version of the software that is considered to be almost ready for release, but still needs some final testing and bug fixing before it is released to the public. It is typically used for testing with a larger group of users.</td></tr><tr><td>🐣 Alpha version</td><td>An early version of the software that is released to a limited group of users for testing and feedback. It may have limited functionality and contain many bugs.</td></tr><tr><td>🔍 Preview version</td><td>A version of the software that is made available to users to preview new features or changes that are coming in a future release. It is typically more stable than an alpha version, but may still have some bugs.</td></tr></tbody></table>
@@ -286,9 +288,13 @@ classDiagram
   Vehicle <|-- Van
 ```
 
+<br>
+
 ## Some programming principles
 
 <table><thead><tr><th>Programming Principle</th><th>Description</th></tr></thead><tbody><tr><td>:arrows_counterclockwise: DRY (Don't Repeat Yourself) Principle</td><td>Every piece of knowledge in a system should have a single, unambiguous representation.</td></tr><tr><td>:bricks: SOLID Principles</td><td>A collection of five principles (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion) that aim to make software designs more understandable, flexible, and maintainable.</td></tr><tr><td>:kiss: KISS (Keep It Simple, Stupid) Principle</td><td>Encourages developers to keep their designs and code as simple as possible.</td></tr><tr><td>:x: YAGNI (You Ain't Gonna Need It) Principle</td><td>Do not add functionality until it's needed.</td></tr><tr><td>:jigsaw: Composition Over Inheritance Principle</td><td>Encourages developers to use composition rather than inheritance to achieve code reuse and extensibility.</td></tr></tbody></table>
+
+<br>
 
 ## 5 Javascript one-liners
 
