@@ -1,4 +1,4 @@
-# :boy: Personal Github World
+# :boy: Github Journeys
 
 ---
 
