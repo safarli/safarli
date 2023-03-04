@@ -1,8 +1,8 @@
+# :boy: Personal Github Repo
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 100px;" />
 </div>
-
-## :boy: Personal Github Repo
 
 ### :earth_asia: Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
 
