@@ -163,6 +163,34 @@
 
 ---
 
+## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin:
+
+### :scroll: The rules are as follows
+
+- Follow the project's contribution guidelines and coding standards.
+- Ensure that your code is well-documented and easy to understand.
+- Respect the project maintainers and their decisions.
+- Be courteous and professional when communicating with other contributors.
+- Test your code thoroughly before submitting a pull request.
+- Avoid introducing unnecessary dependencies or changes to the project's architecture.
+- Seek permission before making major changes to the project.
+- Be open to feedback and constructive criticism.
+- Only submit pull requests that are related to the project's scope and purpose.
+- Keep up-to-date with the latest changes to the project and adapt your contributions accordingly.
+
+### <img src="turkish_flag.gif" style="height: 18px"/> Katkı Sağlayıcılar İçin Davranış Kuralları
+
+- Projeye katkı sağlamak için belirtilen katkı kuralları ve kodlama standartlarını takip edin.
+- Kodunuzu iyi belgelendirin ve anlaşılması kolay hale getirin.
+- Proje yöneticilerine ve onların kararlarına saygılı olun.
+- Diğer katkıda bulunanlarla iletişim kurarken nezaketli ve profesyonel olun.
+- Pull request (çekme isteği) göndermeden önce kodunuzu detaylı bir şekilde test edin.
+- Projeye gereksiz bağımlılıklar veya değişiklikler getirmekten kaçının.
+- Projeye önemli değişiklikler yapmadan önce izin alın.
+- Geri bildirime ve yapıcı eleştirilere açık olun.
+- Sadece projenin kapsamı ve amacıyla ilgili pull request'leri gönderin.
+- Projedeki son değişiklikleri takip edin ve katkılarınızı buna göre uyarlayın.
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=safarli&&style=flat-square" align="center" />
 </div>
