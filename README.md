@@ -178,7 +178,7 @@
 - Only submit pull requests that are related to the project's scope and purpose.
 - Keep up-to-date with the latest changes to the project and adapt your contributions accordingly.
 
-### <img src="turkish_flag.gif" style="height: 18px"/> Katkı Sağlayıcılar İçin Davranış Kuralları
+### <img src="turkish_flag.gif" height="18px"/> Katkı Sağlayıcılar İçin Davranış Kuralları
 
 - Projeye katkı sağlamak için belirtilen katkı kuralları ve kodlama standartlarını takip edin.
 - Kodunuzu iyi belgelendirin ve anlaşılması kolay hale getirin.
