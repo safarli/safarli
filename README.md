@@ -4,19 +4,15 @@
 console.log('Welcome here');
 ```
 
+---
+
 <div align="center">
 <img src="safarli.gif" align="center"/>
 </div>
 
----
-
 <div align="center">
 <img src="safarlisghub.gif" align="center" style="" />
 </div>
-
----
-
----
 
 <div align="center">
 <img src="ai-was-here.gif" align="center"/>
