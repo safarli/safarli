@@ -4,7 +4,7 @@
 <img src="helloworld.gif" align="center" style="" />
 </div>
 
-### :earth_asia: Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
+### :earth_asia: Public repos are mostly for hobby & practicing purposes (For real-world projects, contact me)
 
 ---
 
