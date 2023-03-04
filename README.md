@@ -20,19 +20,19 @@ console.log('Welcome here');
 
 ---
 
-## :earth_asia: Public repositories on my Github profile primarily serve hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me.
+## :earth_asia: Public repositories on my Github profile primarily serve hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me
 
-## <img src="turkish_flag.gif" height="22px"/> Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin.
+## <img src="turkish_flag.gif" height="22px"/> Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin
 
 ---
 
 <pre>
- ____             __            _ _     ____          _ _   _           _     
-| __ ) ___  __ _ / _| __ _ _ __| (_)   / __ \    __ _(_) |_| |__  _   _| |__  
-|  _ \/ __|/ _` | |_ / _` | '__| | |  / / _` |  / _` | | __| '_ \| | | | '_ \ 
+ ____             ___ _     ____          _ _   _           _
+| __ ) _____ _/_| ___ ___| (_)   / __ \    ___(_) |_| |___   _| |__  
+|  _\/ __|/ _` | |_ / _` | '__| | |  / / _` |  /_` | | __| '_ \| | | | '_ \
 | |_) \__ \ (_| |  _| (_| | |  | | | | | (_| | | (_| | | |_| | | | |_| | |_) |
-|____/|___/\__,_|_|  \__,_|_|  |_|_|  \ \__,_|  \__, |_|\__|_| |_|\__,_|_.__/ 
-                                       \____/   |___/                                                                      
+|____/|___/\__,_|_|  \__,_|_|  |_|_|  \ \__,_|  \__, |_|\__|_| |_|\__,_|_.__/
+                                       \____/   |___/
 </pre>
 
 :computer: Dealing with Computers, since 2004
@@ -80,9 +80,11 @@ console.log('Welcome here');
 </div>
 
 ## I've knowledge of
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -107,7 +109,8 @@ console.log('Welcome here');
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Backend
+
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -129,9 +132,8 @@ console.log('Welcome here');
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -155,13 +157,16 @@ console.log('Welcome here');
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
 ## Statistics
+
 ![Safarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=safarli&show_icons=true&theme=cobalt)
+
 ## My daily.dev DevCard
+
 <a href="https://app.daily.dev/safarli"><img src="./devcard.svg" height="300" alt="Bendali Safarli's Dev Card"/></a>
 
 ---
@@ -271,8 +276,7 @@ classDiagram
   <li><code>const getFirstNElements = (arr, n) => arr.slice(0, n);</code> - Arrow function that returns the first n elements of an array.</li>
 </ul>
 
-
-## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin:
+## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin
 
 ### :scroll: The rules are as follows
 
@@ -303,14 +307,10 @@ classDiagram
 ---
 
 :heart: Best Regards!  
-:heart: En iyi dileklerimle!  
+:heart: En iyi dileklerimle!
 
 ---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=safarli&&style=flat-square" align="center" />
 </div>
-
-
-
-
