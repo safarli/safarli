@@ -159,7 +159,7 @@
 ## Statistics
 ![Safarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=safarli&show_icons=true&theme=cobalt)
 ## My daily.dev DevCard :D
-<a href="https://app.daily.dev/safarli"><img src="./devcard.svg" width="400" alt="Bendali Safarli's Dev Card"/></a>
+<a href="https://app.daily.dev/safarli"><img src="./devcard.svg" height="300" alt="Bendali Safarli's Dev Card"/></a>
 
 ---
 
