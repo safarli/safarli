@@ -3,6 +3,15 @@
 ### Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
 
 ---
+<pre>
+ ____             __            _ _     ____          _ _   _           _     
+| __ ) ___  __ _ / _| __ _ _ __| (_)   / __ \    __ _(_) |_| |__  _   _| |__  
+|  _ \/ __|/ _` | |_ / _` | '__| | |  / / _` |  / _` | | __| '_ \| | | | '_ \ 
+| |_) \__ \ (_| |  _| (_| | |  | | | | | (_| | | (_| | | |_| | | | |_| | |_) |
+|____/|___/\__,_|_|  \__,_|_|  |_|_|  \ \__,_|  \__, |_|\__|_| |_|\__,_|_.__/ 
+                                       \____/   |___/                                                                      
+</pre>
+---
 
 <div>
 <img alt="Languages" src="https://img.shields.io/badge/-Languages-000000?style=for-the-badge&logo=Plex&logoColor=white">
@@ -47,13 +56,6 @@
 ### My daily.dev DevCard :D
 <a href="https://app.daily.dev/safarli"><img src="./devcard.svg" width="400" alt="Bendali Safarli's Dev Card"/></a>
 
-<pre>
- ____             __            _ _     ____          _ _   _           _     
-| __ ) ___  __ _ / _| __ _ _ __| (_)   / __ \    __ _(_) |_| |__  _   _| |__  
-|  _ \/ __|/ _` | |_ / _` | '__| | |  / / _` |  / _` | | __| '_ \| | | | '_ \ 
-| |_) \__ \ (_| |  _| (_| | |  | | | | | (_| | | (_| | | |_| | | | |_| | |_) |
-|____/|___/\__,_|_|  \__,_|_|  |_|_|  \ \__,_|  \__, |_|\__|_| |_|\__,_|_.__/ 
-                                       \____/   |___/                                                                      
-</pre>
+
 
 
