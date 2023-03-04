@@ -20,8 +20,6 @@ console.log('Welcome here');
 
 ---
 
-
-
 ## :earth_asia: Public repositories on my Github profile primarily serve hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me.
 
 ## <img src="turkish_flag.gif" height="22px"/> Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin.
