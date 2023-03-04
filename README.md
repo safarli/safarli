@@ -1,7 +1,11 @@
 # :boy: Personal Github Repo
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 100px;" />
+</div> -->
+
+<div align="center">
+<img src="https://i.giphy.com/media/nM3pU1t3j5ikDN0NKH/giphy.webp" align="center" style="" />
 </div>
 
 ### :earth_asia: Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
