@@ -1,7 +1,7 @@
 # :boy: Personal Github Repo
 
 <!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 100px;" />
+<img src="helloworld.gif" align="center" />
 </div> -->
 
 <div align="center">
