@@ -174,6 +174,17 @@ console.log('Welcome here');
 
 <table><thead><tr><th>:palm_tree: Programming Principle</th><th>:fire: Description</th></tr></thead><tbody><tr><td>DRY (Don't Repeat Yourself) Principle</td><td>Every piece of knowledge in a system should have a single, unambiguous representation.</td></tr><tr><td>SOLID Principles</td><td>A collection of five principles (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion) that aim to make software designs more understandable, flexible, and maintainable.</td></tr><tr><td>KISS (Keep It Simple, Stupid) Principle</td><td>Encourages developers to keep their designs and code as simple as possible.</td></tr><tr><td>YAGNI (You Ain't Gonna Need It) Principle</td><td>Do not add functionality until it's needed.</td></tr><tr><td>Composition Over Inheritance Principle</td><td>Encourages developers to use composition rather than inheritance to achieve code reuse and extensibility.</td></tr></tbody></table>
 
+## 5 Javascript one-liners
+
+<ul>
+  <li><code>const sum = (a, b) => a + b;</code> - Arrow function that returns the sum of two numbers.</li>
+  <li><code>const double = arr => arr.map(x => x * 2);</code> - Arrow function that returns an array with each element doubled.</li>
+  <li><code>const isEven = num => num % 2 === 0;</code> - Arrow function that checks whether a number is even.</li>
+  <li><code>const reverseStr = str => str.split('').reverse().join('');</code> - Arrow function that reverses a string.</li>
+  <li><code>const getFirstNElements = (arr, n) => arr.slice(0, n);</code> - Arrow function that returns the first n elements of an array.</li>
+</ul>
+
+
 ## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin:
 
 ### :scroll: The rules are as follows
