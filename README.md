@@ -1,5 +1,9 @@
 # :boy: My Github World
 
+```js
+console.log('Hello World');
+```
+
 <div align="center">
 <img src="safarli.gif" align="center"/>
 </div>
