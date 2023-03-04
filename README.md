@@ -1,7 +1,5 @@
 # :boy: My Github World
 
----
-
 <div align="center">
 <img src="safarli.gif" align="center"/>
 </div>
