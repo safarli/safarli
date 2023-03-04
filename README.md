@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-<img src="helloworld.gif" align="center" style="" />
+<img src="safarlisghub.gif" align="center" style="" />
 </div>
 
 ## :earth_asia: Public repositories on my Github profile primarily serve hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me.
