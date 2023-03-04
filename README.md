@@ -84,8 +84,6 @@ console.log('Welcome here');
 ## I've knowledge of
 <table><tr><td valign="top" width="33%">
 
-
-
 ### Frontend
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -169,6 +167,10 @@ console.log('Welcome here');
 <a href="https://app.daily.dev/safarli"><img src="./devcard.svg" height="300" alt="Bendali Safarli's Dev Card"/></a>
 
 ---
+
+## Componets of a computer
+
+<table><thead><tr><th>Component</th><th>Function</th><th>Example</th></tr></thead><tbody><tr><td>💾 Hard Disk Drive (HDD)</td><td>Stores data long-term</td><td>Seagate Barracuda, Western Digital Black</td></tr><tr><td>💻 Central Processing Unit (CPU)</td><td>Executes instructions and performs calculations</td><td>Intel Core i9, AMD Ryzen 9</td></tr><tr><td>🖥️ Graphics Processing Unit (GPU)</td><td>Renders images and videos</td><td>Nvidia GeForce RTX 3080, AMD Radeon RX 6800 XT</td></tr><tr><td>📶 Network Interface Card (NIC)</td><td>Connects a computer to a network</td><td>Intel Ethernet Connection, Realtek PCIe Gigabit Ethernet</td></tr><tr><td>🎧 Audio Card</td><td>Processes and outputs audio</td><td>Creative Sound Blaster Z, Asus Xonar Essence STX</td></tr><tr><td>🖨️ Printer</td><td>Outputs physical copies of digital documents</td><td>HP LaserJet, Canon PIXMA</td></tr><tr><td>📹 Webcam</td><td>Captures video and audio</td><td>Logitech C920, Razer Kiyo</td></tr><tr><td>🕹️ Input Devices</td><td>Allow user to interact with the computer</td><td>Keyboard, Mouse, Game Controller</td></tr><tr><td>🖥️ Display</td><td>Outputs visual information from computer</td><td>Dell UltraSharp, LG OLED</td></tr><tr><td>🔋 Power Supply Unit (PSU)</td><td>Supplies power to computer components</td><td>Corsair RM850x, EVGA SuperNOVA 750 G5</td></tr></tbody></table>
 
 ## Here are some of the most common programming paradigms
 
