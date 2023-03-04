@@ -31,8 +31,7 @@ console.log('Hello World');
                                        \____/   |___/                                                                      
 </pre>
 
-:computer: Dealing with Computers, since 2004  
-:shield: :octopus: :dolphin:
+:computer: Dealing with Computers, since 2004
 
 ---
 
