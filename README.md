@@ -4,7 +4,7 @@ console.log('Welcome here');
 ---
 
 <div align="center">
-<img src="safarli.gif" align="center"/>
+<img src="safarlisgithub.gif" align="center"/>
 </div>
 
 ---
