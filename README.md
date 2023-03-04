@@ -18,7 +18,7 @@
 </pre>
 
 :computer: Dealing with Computers, since 2004  
-:shield: Shield
+:shield: :octopus: :dolphin:
 
 ---
 
