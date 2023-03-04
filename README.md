@@ -172,15 +172,7 @@ console.log('Welcome here');
 
 ## Some programming principles
 
-- :fire: **DRY** (Don't Repeat Yourself) Principle: This principle states that every piece of knowledge in a system should have a single, unambiguous representation.
-
-- :fire: **SOLID** Principles: This is a collection of five principles that aim to make software designs more understandable, flexible, and maintainable. The five principles are Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
-
-- :fire: **KISS** (Keep It Simple, Stupid) Principle: This principle encourages developers to keep their designs and code as simple as possible.
-
-- :fire: **YAGNI** (You Ain't Gonna Need It) Principle: This principle states that you should not add functionality until it's needed.
-
-- :fire: **Composition Over Inheritance Principle**: This principle encourages developers to use composition rather than inheritance to achieve code reuse and extensibility.
+<table><thead><tr><th>:palm_tree: Programming Principle</th><th>:fire: Description</th></tr></thead><tbody><tr><td>DRY (Don't Repeat Yourself) Principle</td><td>Every piece of knowledge in a system should have a single, unambiguous representation.</td></tr><tr><td>SOLID Principles</td><td>A collection of five principles (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion) that aim to make software designs more understandable, flexible, and maintainable.</td></tr><tr><td>KISS (Keep It Simple, Stupid) Principle</td><td>Encourages developers to keep their designs and code as simple as possible.</td></tr><tr><td>YAGNI (You Ain't Gonna Need It) Principle</td><td>Do not add functionality until it's needed.</td></tr><tr><td>Composition Over Inheritance Principle</td><td>Encourages developers to use composition rather than inheritance to achieve code reuse and extensibility.</td></tr></tbody></table>
 
 ## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin:
 
