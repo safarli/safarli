@@ -179,21 +179,29 @@ console.log('Welcome here');
 
 ---
 
-## :large_blue_diamond: Common terms for different stages of software testing and development
+## :large_blue_circle: Common terms for different stages of software testing and development
 
 <table><thead><tr><th>Term</th><th>Definition</th></tr></thead><tbody><tr><td>🏗️ Development build</td><td>A version of the software that is built for testing and debugging purposes during the development process. It may not have all the features or be completely stable, but it is used to test new code changes.</td></tr><tr><td>🐝 Beta version</td><td>A pre-release version of the software that is made available to a limited group of users to test and provide feedback on before the final release. This version is usually more stable than a development build, but may still have some bugs.</td></tr><tr><td>🚀 Release candidate</td><td>A version of the software that is considered to be almost ready for release, but still needs some final testing and bug fixing before it is released to the public. It is typically used for testing with a larger group of users.</td></tr><tr><td>🐣 Alpha version</td><td>An early version of the software that is released to a limited group of users for testing and feedback. It may have limited functionality and contain many bugs.</td></tr><tr><td>🔍 Preview version</td><td>A version of the software that is made available to users to preview new features or changes that are coming in a future release. It is typically more stable than an alpha version, but may still have some bugs.</td></tr></tbody></table>
 
-## :large_blue_diamond: Componets of a computer
+<br>
+
+## :large_blue_circle: Componets of a computer
 
 <table><thead><tr><th>Component</th><th>Function</th><th>Example</th></tr></thead><tbody><tr><td>💾 Hard Disk Drive (HDD)</td><td>Stores data long-term</td><td>Seagate Barracuda, Western Digital Black</td></tr><tr><td>💻 Central Processing Unit (CPU)</td><td>Executes instructions and performs calculations</td><td>Intel Core i9, AMD Ryzen 9</td></tr><tr><td>🖥️ Graphics Processing Unit (GPU)</td><td>Renders images and videos</td><td>Nvidia GeForce RTX 3080, AMD Radeon RX 6800 XT</td></tr><tr><td>📶 Network Interface Card (NIC)</td><td>Connects a computer to a network</td><td>Intel Ethernet Connection, Realtek PCIe Gigabit Ethernet</td></tr><tr><td>🎧 Audio Card</td><td>Processes and outputs audio</td><td>Creative Sound Blaster Z, Asus Xonar Essence STX</td></tr><tr><td>🖨️ Printer</td><td>Outputs physical copies of digital documents</td><td>HP LaserJet, Canon PIXMA</td></tr><tr><td>📹 Webcam</td><td>Captures video and audio</td><td>Logitech C920, Razer Kiyo</td></tr><tr><td>🕹️ Input Devices</td><td>Allow user to interact with the computer</td><td>Keyboard, Mouse, Game Controller</td></tr><tr><td>🖥️ Display</td><td>Outputs visual information from computer</td><td>Dell UltraSharp, LG OLED</td></tr><tr><td>🔋 Power Supply Unit (PSU)</td><td>Supplies power to computer components</td><td>Corsair RM850x, EVGA SuperNOVA 750 G5</td></tr></tbody></table>
 
-## :large_blue_diamond: Main components and modules of the Linux kernel
+<br>
+
+## :large_blue_circle: Main components and modules of the Linux kernel
 
 <table><thead><tr><th>Component/Module</th><th>Description</th><th>Emoji</th></tr></thead><tbody><tr><td>Process Management</td><td>Manages the creation, execution, and termination of processes</td><td>:running:</td></tr><tr><td>Memory Management</td><td>Allocates and deallocates memory for processes and manages virtual memory</td><td>:memo:</td></tr><tr><td>Filesystem Management</td><td>Provides an interface between the kernel and the file system, manages file permissions and handles file system requests</td><td>:file_folder:</td></tr><tr><td>Device Drivers</td><td>Provide an interface between hardware devices and the kernel, allowing the kernel to communicate with the hardware</td><td>:computer_mouse:</td></tr><tr><td>Network Stack</td><td>Implements network protocols and manages network connections</td><td>:globe_with_meridians:</td></tr><tr><td>Security</td><td>Implements security measures such as access control and authentication</td><td>:lock:</td></tr><tr><td>Scheduler</td><td>Determines which processes are executed by the CPU and for how long</td><td>:alarm_clock:</td></tr><tr><td>Virtualization</td><td>Implements virtualization technologies to allow multiple operating systems to run on a single physical machine</td><td>:computer:</td></tr><tr><td>Inter-Process Communication</td><td>Provides mechanisms for processes to communicate with each other, such as pipes and sockets</td><td>:speech_balloon:</td></tr></tbody></table>
 
-## :large_blue_diamond: Here are some of the most common programming paradigms
+<br>
+
+## :large_blue_circle: Here are some of the most common programming paradigms
 
 <table><thead><tr><th>:computer: Programming Paradigm</th><th>:memo: Description</th></tr></thead><tbody><tr><td><strong>Imperative Programming</strong></td><td>Programming based on giving the computer a set of instructions to follow in order to accomplish a task.</td></tr><tr><td><strong>Declarative Programming</strong></td><td>Programming based on describing the problem to be solved, rather than providing step-by-step instructions.</td></tr><tr><td><strong>Functional Programming</strong></td><td>Programming based on writing functions that are designed to perform specific tasks, with little or no emphasis on the flow of control within the program.</td></tr><tr><td><strong>Object-Oriented Programming (OOP)</strong></td><td>Programming based on the use of objects that encapsulate data and functionality together, with an emphasis on abstraction, inheritance, and polymorphism.</td></tr><tr><td><strong>Event-Driven Programming</strong></td><td>Programming based on responding to events, such as user input, network messages, or timer events.</td></tr><tr><td><strong>Procedural Programming</strong></td><td>Programming similar to imperative programming, but with a focus on using procedures or functions to group related code together.</td></tr><tr><td><strong>Logic Programming</strong></td><td>Programming based on defining a set of rules or constraints, and using a solver or inference engine to find solutions that satisfy those rules or constraints.</td></tr></tbody></table>
+
+<br>
 
 ## OOP Concepts
 
@@ -214,9 +222,13 @@ graph TD;
   E --> N[Overriding];
 ```
 
+<br>
+
 ## Javascript Design Patterns
 
 <table><thead><tr><th>:computer: Design Pattern</th><th>:memo: Description</th></tr></thead><tbody><tr><td><strong>Module Pattern</strong></td><td>:package: Encapsulates related code into a single object, providing a way to organize code and avoid global namespace pollution.</td></tr><tr><td><strong>Revealing Module Pattern</strong></td><td>:key: Similar to the Module Pattern, but with the addition of a public API that reveals specific functions or properties of the module.</td></tr><tr><td><strong>Constructor Pattern</strong></td><td>:factory: Used to create new objects with specific properties and methods, similar to classes in object-oriented programming.</td></tr><tr><td><strong>Prototype Pattern</strong></td><td>:bulb: Used to add properties and methods to objects through their prototypes, rather than defining them directly on the object itself.</td></tr><tr><td><strong>Singleton Pattern</strong></td><td>:one: Used to ensure that only one instance of a particular object is created, providing a way to manage global state.</td></tr><tr><td><strong>Observer Pattern</strong></td><td>:eyes: Creates a subscription mechanism, allowing objects to be notified when certain events occur.</td></tr><tr><td><strong>Mediator Pattern</strong></td><td>:handshake: Decouples objects by introducing a mediator that manages communication between them.</td></tr><tr><td><strong>Decorator Pattern</strong></td><td>:art: Dynamically adds functionality to an object by wrapping it with one or more decorator objects.</td></tr></tbody></table>
+
+<br>
 
 ## Vehicle hierarchy
 
