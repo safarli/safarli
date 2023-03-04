@@ -109,8 +109,6 @@ console.log('Welcome here');
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -173,6 +171,10 @@ console.log('Welcome here');
 ## Here are some of the most common programming paradigms
 
 <table><thead><tr><th>:computer: Programming Paradigm</th><th>:memo: Description</th></tr></thead><tbody><tr><td><strong>Imperative Programming</strong></td><td>Programming based on giving the computer a set of instructions to follow in order to accomplish a task.</td></tr><tr><td><strong>Declarative Programming</strong></td><td>Programming based on describing the problem to be solved, rather than providing step-by-step instructions.</td></tr><tr><td><strong>Functional Programming</strong></td><td>Programming based on writing functions that are designed to perform specific tasks, with little or no emphasis on the flow of control within the program.</td></tr><tr><td><strong>Object-Oriented Programming (OOP)</strong></td><td>Programming based on the use of objects that encapsulate data and functionality together, with an emphasis on abstraction, inheritance, and polymorphism.</td></tr><tr><td><strong>Event-Driven Programming</strong></td><td>Programming based on responding to events, such as user input, network messages, or timer events.</td></tr><tr><td><strong>Procedural Programming</strong></td><td>Programming similar to imperative programming, but with a focus on using procedures or functions to group related code together.</td></tr><tr><td><strong>Logic Programming</strong></td><td>Programming based on defining a set of rules or constraints, and using a solver or inference engine to find solutions that satisfy those rules or constraints.</td></tr></tbody></table>
+
+## Javascript Design Patterns
+
+<table><thead><tr><th>:computer: Design Pattern</th><th>:memo: Description</th></tr></thead><tbody><tr><td><strong>Module Pattern</strong></td><td>:package: Encapsulates related code into a single object, providing a way to organize code and avoid global namespace pollution.</td></tr><tr><td><strong>Revealing Module Pattern</strong></td><td>:key: Similar to the Module Pattern, but with the addition of a public API that reveals specific functions or properties of the module.</td></tr><tr><td><strong>Constructor Pattern</strong></td><td>:factory: Used to create new objects with specific properties and methods, similar to classes in object-oriented programming.</td></tr><tr><td><strong>Prototype Pattern</strong></td><td>:bulb: Used to add properties and methods to objects through their prototypes, rather than defining them directly on the object itself.</td></tr><tr><td><strong>Singleton Pattern</strong></td><td>:one: Used to ensure that only one instance of a particular object is created, providing a way to manage global state.</td></tr><tr><td><strong>Observer Pattern</strong></td><td>:eyes: Creates a subscription mechanism, allowing objects to be notified when certain events occur.</td></tr><tr><td><strong>Mediator Pattern</strong></td><td>:handshake: Decouples objects by introducing a mediator that manages communication between them.</td></tr><tr><td><strong>Decorator Pattern</strong></td><td>:art: Dynamically adds functionality to an object by wrapping it with one or more decorator objects.</td></tr></tbody></table>
 
 ## Some programming principles
 
