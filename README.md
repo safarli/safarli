@@ -197,6 +197,62 @@ graph TD;
 
 <table><thead><tr><th>:computer: Design Pattern</th><th>:memo: Description</th></tr></thead><tbody><tr><td><strong>Module Pattern</strong></td><td>:package: Encapsulates related code into a single object, providing a way to organize code and avoid global namespace pollution.</td></tr><tr><td><strong>Revealing Module Pattern</strong></td><td>:key: Similar to the Module Pattern, but with the addition of a public API that reveals specific functions or properties of the module.</td></tr><tr><td><strong>Constructor Pattern</strong></td><td>:factory: Used to create new objects with specific properties and methods, similar to classes in object-oriented programming.</td></tr><tr><td><strong>Prototype Pattern</strong></td><td>:bulb: Used to add properties and methods to objects through their prototypes, rather than defining them directly on the object itself.</td></tr><tr><td><strong>Singleton Pattern</strong></td><td>:one: Used to ensure that only one instance of a particular object is created, providing a way to manage global state.</td></tr><tr><td><strong>Observer Pattern</strong></td><td>:eyes: Creates a subscription mechanism, allowing objects to be notified when certain events occur.</td></tr><tr><td><strong>Mediator Pattern</strong></td><td>:handshake: Decouples objects by introducing a mediator that manages communication between them.</td></tr><tr><td><strong>Decorator Pattern</strong></td><td>:art: Dynamically adds functionality to an object by wrapping it with one or more decorator objects.</td></tr></tbody></table>
 
+## Vehicle hierarchy
+
+```mermaid
+classDiagram
+  class Vehicle{
+    +make: string
+    +model: string
+    +year: number
+    +weight: number
+    +getInfo(): string
+  }
+
+  class Car{
+    -numOfDoors: number
+    +drive(): string
+  }
+
+  class Truck{
+    -cargoCapacity: number
+    +haul(): string
+  }
+
+  class ElectricCar{
+    -range: number
+    +charge(): string
+  }
+
+  class SUV{
+    -seatingCapacity: number
+    +offroad(): string
+  }
+
+  class Motorcycle{
+    -numOfWheels: number
+    +ride(): string
+  }
+
+  class SportsCar{
+    -numOfSeats: number
+    +race(): string
+  }
+
+  class Van{
+    -passengerCapacity: number
+    +carry(): string
+  }
+
+  Vehicle <|-- Car
+  Vehicle <|-- Truck
+  Vehicle <|-- ElectricCar
+  Vehicle <|-- SUV
+  Vehicle <|-- Motorcycle
+  Vehicle <|-- SportsCar
+  Vehicle <|-- Van
+```
+
 ## Some programming principles
 
 <table><thead><tr><th>Programming Principle</th><th>Description</th></tr></thead><tbody><tr><td>:arrows_counterclockwise: DRY (Don't Repeat Yourself) Principle</td><td>Every piece of knowledge in a system should have a single, unambiguous representation.</td></tr><tr><td>:bricks: SOLID Principles</td><td>A collection of five principles (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion) that aim to make software designs more understandable, flexible, and maintainable.</td></tr><tr><td>:kiss: KISS (Keep It Simple, Stupid) Principle</td><td>Encourages developers to keep their designs and code as simple as possible.</td></tr><tr><td>:x: YAGNI (You Ain't Gonna Need It) Principle</td><td>Do not add functionality until it's needed.</td></tr><tr><td>:jigsaw: Composition Over Inheritance Principle</td><td>Encourages developers to use composition rather than inheritance to achieve code reuse and extensibility.</td></tr></tbody></table>
