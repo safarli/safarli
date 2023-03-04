@@ -1,4 +1,6 @@
-# Hello Universe!
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 ## Personal Github Repo
 ### Public repos are mostly for hobby & practicing purposes (For real-world projects contact me)
 
