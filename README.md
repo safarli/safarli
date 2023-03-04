@@ -1,14 +1,13 @@
-# :boy: My Github World
-
 ```js
 console.log('Welcome here');
 ```
-
 ---
 
 <div align="center">
 <img src="safarli.gif" align="center"/>
 </div>
+
+---
 
 <div align="center">
 <img src="safarlisghub.gif" align="center" style="" />
