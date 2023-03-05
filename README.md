@@ -383,7 +383,7 @@ classDiagram
 
 <br>
 
-## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin
+## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin:
 
 ### :scroll: The rules are as follows
 
@@ -441,7 +441,7 @@ classDiagram
   - [Vehicle hierarchy](#vehicle-hierarchy)
   - [Some programming principles](#some-programming-principles)
   - [5 Javascript one-liners](#5-javascript-one-liners)
-  - [:family\_man\_man\_girl\_girl: Code of Conduct for Contributors :pushpin](#family_man_man_girl_girl-code-of-conduct-for-contributors-pushpin)
+  - [:family\_man\_man\_girl\_girl: Code of Conduct for Contributors :pushpin:](#family_man_man_girl_girl-code-of-conduct-for-contributors-pushpin)
     - [:scroll: The rules are as follows](#scroll-the-rules-are-as-follows)
     - [ Katkı Sağlayıcılar İçin Davranış Kuralları](#-katkı-sağlayıcılar-i̇çin-davranış-kuralları)
   - [Table of Contents](#table-of-contents)
