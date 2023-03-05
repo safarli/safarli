@@ -390,6 +390,18 @@ classDiagram
 
 <br>
 
+## <img src="turkish_flag.gif" height="22px"/> Kurallar
+- 🤥 Dürüst olun.
+- 🙏 Diğer insanlara saygı gösterin.
+- ⏰ Saatlerine ve takvimlerine saygı gösterin.
+- 👔 İşyerinde uygun giyinin.
+- 🔒 Özel hayatın gizliliğine saygı gösterin.
+- 🙅‍♀️ İşyerinde diğer insanların özel eşyalarına dokunmayın.
+- 📵 İşyerinde telefonlaşmayın veya kişisel işlerinizi halledin.
+- 🚭 Sigara içme yasağına uyun.
+- 🍺 Alkollü içeceklerin işyerinde tüketimi yasaklanmışsa bu kurala uyun.
+- 🤫 İşyerinde diğer insanları rahatsız etmeyin.
+
 ## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin:
 
 ### :scroll: The rules are as follows
