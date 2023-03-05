@@ -417,6 +417,8 @@ classDiagram
 - 🍺 Alkollü içeceklerin işyerinde tüketimi yasaklanmışsa bu kurala uyun.
 - 🤫 İşyerinde diğer insanları rahatsız etmeyin.
 
+<br>
+
 ## :family_man_man_girl_girl: Code of Conduct for Contributors :pushpin:
 
 ### :scroll: The rules are as follows
