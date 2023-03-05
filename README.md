@@ -224,7 +224,7 @@ _____ _| |_ ___ ___| |_/ __ \  ___ _| |_| |___   _| |__
       </td>
     </tr>
     <tr>
-      <td>:computer_mouse:Device Drivers</td>
+      <td>:computer_mouse: Device Drivers</td>
       <td>
         Provide an interface between hardware devices and the kernel, allowing
         the kernel to communicate with the hardware
