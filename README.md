@@ -8,7 +8,7 @@
     <td style="text-align: center; vertical-align: middle;">
       <div align="center">
       <img src="safarlisgithub.gif"/>
-      <img src="bma-coffee.gif"/>
+      <img src="buy-coffee.gif"/>
       </div>
     </td>
     <td style="text-align: center; vertical-align: middle;">
