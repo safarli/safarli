@@ -390,7 +390,22 @@ classDiagram
 
 <br>
 
-## <img src="turkish_flag.gif" height="22px"/> Kurallar
+
+## <img src="turkish_flag.gif" height="22px"/> General Rules
+
+- 🤥 Be honest.
+- 🙏 Respect other people.
+- ⏰ Respect schedules and deadlines.
+- 👔 Dress appropriately in the workplace.
+- 🔒 Respect the privacy of others.
+- 🙅‍♀️ Do not touch other people's personal belongings at work.
+- 📵 Use your phone for work-related purposes only and attend to personal matters during your own time. If you must take a call, be as quiet as possible and do not disturb others. Also, respect the privacy of others in the workplace and avoid discussing private matters over the phone.
+- 🚭 Follow the smoking ban.
+- 🍺 If the consumption of alcoholic beverages is prohibited in the workplace, adhere to this rule.
+- 🤫 Do not disturb other people in the workplace.
+
+## <img src="turkish_flag.gif" height="22px"/> Genel Kurallar
+
 - 🤥 Dürüst olun.
 - 🙏 Diğer insanlara saygı gösterin.
 - ⏰ Saatlerine ve takvimlerine saygı gösterin.
