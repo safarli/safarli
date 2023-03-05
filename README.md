@@ -202,7 +202,6 @@ _____ _| |_ ___ ___| |_/ __ \  ___ _| |_| |___   _| |__
     <tr>
       <th>Component/Module</th>
       <th>Description</th>
-      <th>Emoji</th>
     </tr>
   </thead>
   <tbody>
