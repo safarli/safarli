@@ -397,7 +397,7 @@ classDiagram
 - 👔 İşyerinde uygun giyinin.
 - 🔒 Özel hayatın gizliliğine saygı gösterin.
 - 🙅‍♀️ İşyerinde diğer insanların özel eşyalarına dokunmayın.
-- 📵 İşyerinde telefonlaşmayın veya kişisel işlerinizi halledin.
+- 📵 İşyerinde, telefonunuzu sadece işle ilgili konular için kullanın ve kişisel işlerinizi özel zamanlarda halledin. Telefonla konuşmak zorunda kalırsanız, mümkün olduğunca sessiz olun ve diğer insanları rahatsız etmeyin. Ayrıca, işyerindeki diğer insanların gizliliğine saygı gösterin ve telefonla konuşurken özel konuları tartışmaktan kaçının.
 - 🚭 Sigara içme yasağına uyun.
 - 🍺 Alkollü içeceklerin işyerinde tüketimi yasaklanmışsa bu kurala uyun.
 - 🤫 İşyerinde diğer insanları rahatsız etmeyin.
