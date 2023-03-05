@@ -391,7 +391,7 @@ classDiagram
 <br>
 
 
-## <img src="turkish_flag.gif" height="22px"/> General Rules
+## 🌐 General Rules
 
 - 🤥 Be honest.
 - 🙏 Respect other people.
