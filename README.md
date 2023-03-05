@@ -6,7 +6,8 @@
 <table style="width: 100%; height: 100%;">
   <tr>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="safarlis_github.gif"/>
+      <img src="safarlisgithub.gif"/>
+      <img src="bma-coffee.gif"/>
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <a href="https://app.daily.dev/safarli"><img src="./devcard.svg" height="300" alt="Bendali Safarli's Dev Card"/></a>
