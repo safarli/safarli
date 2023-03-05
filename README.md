@@ -230,25 +230,16 @@ graph TD;
 
 ## Javascript Design Patterns
 
-- Singleton Pattern: This pattern ensures that only one instance of a class is created and provides a global point of access to it.
--
-- Factory Pattern: This pattern provides an interface for creating objects in a super-class, but allows subclasses to alter the type of objects that will be created.
--
-- Constructor Pattern: This pattern defines a constructor function that can be used to create multiple instances of an object with the same properties and methods.
--
-- Module Pattern: This pattern uses a self-contained module to encapsulate related methods and properties, making them private and preventing them from interfering with other parts of the code.
--
-- Observer Pattern: This pattern establishes a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
--
-- Decorator Pattern: This pattern adds new functionality to an existing object dynamically, without altering its structure.
--
-- Facade Pattern: This pattern provides a simplified interface to a complex subsystem, making it easier to use and reducing its dependencies on other parts of the code.
--
-- Mixin Pattern: This pattern allows objects to inherit properties and methods from multiple sources, without requiring a full-fledged inheritance hierarchy.
--
-- Command Pattern: This pattern encapsulates a request as an object, allowing it to be stored, passed as a parameter, and executed at any time.
--
-- Prototype Pattern: This pattern uses a prototypical instance to create new objects, instead of using a class constructor function, reducing the number of objects needed and simplifying the code.
+- **Singleton Pattern**: This pattern ensures that only one instance of a class is created and provides a global point of access to it.
+- **Factory Pattern**: This pattern provides an interface for creating objects in a super-class, but allows subclasses to alter the type of objects that will be created.
+- **Constructor Pattern**: This pattern defines a constructor function that can be used to create multiple instances of an object with the same properties and methods.
+- **Module Pattern**: This pattern uses a self-contained module to encapsulate related methods and properties, making them private and preventing them from interfering with other parts of the code.
+- **Observer Pattern**: This pattern establishes a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
+- **Decorator Pattern**: This pattern adds new functionality to an existing object dynamically, without altering its structure.
+- **Facade Pattern**: This pattern provides a simplified interface to a complex subsystem, making it easier to use and reducing its dependencies on other parts of the code.
+- **Mixin Pattern**: This pattern allows objects to inherit properties and methods from multiple sources, without requiring a full-fledged inheritance hierarchy.
+- **Command Pattern**: This pattern encapsulates a request as an object, allowing it to be stored, passed as a parameter, and executed at any time.
+- **Prototype Pattern**: This pattern uses a prototypical instance to create new objects, instead of using a class constructor function, reducing the number of objects needed and simplifying the code.
 
 <br>
 
