@@ -354,6 +354,36 @@ classDiagram
 
 ---
 
+---
+
+## Table of Contents
+
+- [:exclamation: Preview Version](#exclamation-preview-version)
+  - [:earth\_asia: Public repositories on my Github profile primarily serve hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me](#earth_asia-public-repositories-on-my-github-profile-primarily-serve-hobby-and-practice-purposes-if-you-are-looking-for-real-world-projects-please-do-not-hesitate-to-contact-me)
+  - [ Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin](#-github-profilimdeki-genel-depolar-öncelikle-hobi-ve-pratik-amaçlar-için-hizmet-vermektedir-gerçek-dünya-projeleri-arıyorsanız-lütfen-benimle-iletişime-geçmekten-çekinmeyin)
+  - [Currently Using](#currently-using)
+  - [I've knowledge of](#ive-knowledge-of)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [DevOps](#devops)
+  - [Statistics](#statistics)
+  - [My daily.dev DevCard](#my-dailydev-devcard)
+  - [:large\_blue\_circle: Common terms for different stages of software testing and development](#large_blue_circle-common-terms-for-different-stages-of-software-testing-and-development)
+  - [:large\_blue\_circle: Componets of a computer](#large_blue_circle-componets-of-a-computer)
+  - [:large\_blue\_circle: Main components and modules of the Linux kernel](#large_blue_circle-main-components-and-modules-of-the-linux-kernel)
+  - [:large\_blue\_circle: Here are some of the most common programming paradigms](#large_blue_circle-here-are-some-of-the-most-common-programming-paradigms)
+  - [OOP Concepts](#oop-concepts)
+  - [Javascript Design Patterns](#javascript-design-patterns)
+  - [Vehicle hierarchy](#vehicle-hierarchy)
+  - [Some programming principles](#some-programming-principles)
+  - [5 Javascript one-liners](#5-javascript-one-liners)
+  - [:family\_man\_man\_girl\_girl: Code of Conduct for Contributors :pushpin](#family_man_man_girl_girl-code-of-conduct-for-contributors-pushpin)
+    - [:scroll: The rules are as follows](#scroll-the-rules-are-as-follows)
+    - [ Katkı Sağlayıcılar İçin Davranış Kuralları](#-katkı-sağlayıcılar-i̇çin-davranış-kuralları)
+  - [Table of Contents](#table-of-contents)
+
+---
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=safarli&&style=flat-square" align="center" />
 </div>
