@@ -6,10 +6,13 @@
 <table style="width: 100%; height: 100%;">
   <tr>
     <td style="text-align: center; vertical-align: middle;">
+      <div align="center">
       <img src="safarlisgithub.gif"/>
       <img src="bma-coffee.gif"/>
+      </div>
     </td>
     <td style="text-align: center; vertical-align: middle;">
+      <h3 align="center">Dev Card</h3>
       <a href="https://app.daily.dev/safarli"><img src="./devcard.svg" height="300" alt="Bendali Safarli's Dev Card"/></a>
     </td>
   </tr>
