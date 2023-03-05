@@ -2,7 +2,8 @@
 
 ---
 
-<table style="width: 100%; height: 100%;>
+<div align="center">
+<table style="width: 100%; height: 100%;">
   <tr>
     <td style="text-align: center; vertical-align: middle;">
       <img src="safarlis_github.gif"/>
@@ -12,6 +13,7 @@
     </td>
   </tr>
 </table>
+</div>
                                                                                                          
 ---
 
@@ -427,7 +429,7 @@ classDiagram
 
 ## Table of Contents
 
-- [:exclamation: Preview Version](#exclamation-preview-version)
+- [:exclamation: Draft version](#exclamation-draft-version)
   - [:earth\_asia: Public repositories on my Github profile are primarily for hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me](#earth_asia-public-repositories-on-my-github-profile-are-primarily-for-hobby-and-practice-purposes-if-you-are-looking-for-real-world-projects-please-do-not-hesitate-to-contact-me)
   - [ Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin](#-github-profilimdeki-genel-depolar-öncelikle-hobi-ve-pratik-amaçlar-için-hizmet-vermektedir-gerçek-dünya-projeleri-arıyorsanız-lütfen-benimle-iletişime-geçmekten-çekinmeyin)
   - [Currently Using](#currently-using)
