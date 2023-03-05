@@ -30,21 +30,21 @@ console.log('Welcome here');
 
 ---
 
-## :earth_asia: Public repositories on my Github profile are primarily for hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me.
+## :earth_asia: Public repositories on my Github profile are primarily for hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me
 
 ## <img src="turkish_flag.gif" height="22px"/> Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin
 
 ---
 
 <pre>
-            __           _ _               _ _   _           _     
-           / _|         | (_)  ____       (_) | | |         | |    
- ___  __ _| |_ __ _ _ __| |_  / __ \  __ _ _| |_| |__  _   _| |__  
-/ __|/ _` |  _/ _` | '__| | |/ / _` |/ _` | | __| '_ \| | | | '_ \ 
+            __           _ _               _ _   _           _
+           / _|         | (_)  ____       (_) | | |         | |
+_____ _| |_ ___ ___| |_/ __ \  ___ _| |_| |___   _| |__  
+/ __|/ _` |  _/ _` | '__| | |/ /_` |/ _` | | __| '_ \| | | | '_ \
 \__ \ (_| | || (_| | |  | | | | (_| | (_| | | |_| | | | |_| | |_) |
-|___/\__,_|_| \__,_|_|  |_|_|\ \__,_|\__, |_|\__|_| |_|\__,_|_.__/ 
-                              \____/  __/ |                        
-                                     |___/                         
+|___/\__,_|_| \__,_|_|  |_|_|\ \__,_|\__, |_|\__|_| |_|\__,_|_.__/
+                              \____/  __/ |
+                                     |___/
 </pre>
 
 :computer: Dealing with Computers, since 2004
@@ -197,7 +197,72 @@ console.log('Welcome here');
 
 ## :large_blue_circle: Main components and modules of the Linux kernel
 
-<table><thead><tr><th>Component/Module</th><th>Description</th><th>Emoji</th></tr></thead><tbody><tr><td>Process Management</td><td>Manages the creation, execution, and termination of processes</td><td>:running:</td></tr><tr><td>Memory Management</td><td>Allocates and deallocates memory for processes and manages virtual memory</td><td>:memo:</td></tr><tr><td>Filesystem Management</td><td>Provides an interface between the kernel and the file system, manages file permissions and handles file system requests</td><td>:file_folder:</td></tr><tr><td>Device Drivers</td><td>Provide an interface between hardware devices and the kernel, allowing the kernel to communicate with the hardware</td><td>:computer_mouse:</td></tr><tr><td>Network Stack</td><td>Implements network protocols and manages network connections</td><td>:globe_with_meridians:</td></tr><tr><td>Security</td><td>Implements security measures such as access control and authentication</td><td>:lock:</td></tr><tr><td>Scheduler</td><td>Determines which processes are executed by the CPU and for how long</td><td>:alarm_clock:</td></tr><tr><td>Virtualization</td><td>Implements virtualization technologies to allow multiple operating systems to run on a single physical machine</td><td>:computer:</td></tr><tr><td>Inter-Process Communication</td><td>Provides mechanisms for processes to communicate with each other, such as pipes and sockets</td><td>:speech_balloon:</td></tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th>Component/Module</th>
+      <th>Description</th>
+      <th>Emoji</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>:running: Process Management</td>
+      <td>Manages the creation, execution, and termination of processes</td>
+    </tr>
+    <tr>
+      <td>:memo: Memory Management</td>
+      <td>
+        Allocates and deallocates memory for processes and manages virtual
+        memory
+      </td>
+    </tr>
+    <tr>
+      <td>:file_folder: Filesystem Management</td>
+      <td>
+        Provides an interface between the kernel and the file system, manages
+        file permissions and handles file system requests
+      </td>
+    </tr>
+    <tr>
+      <td>:computer_mouse:Device Drivers</td>
+      <td>
+        Provide an interface between hardware devices and the kernel, allowing
+        the kernel to communicate with the hardware
+      </td>
+    </tr>
+    <tr>
+      <td>:globe_with_meridians: Network Stack</td>
+      <td>Implements network protocols and manages network connections</td>
+    </tr>
+    <tr>
+      <td>:lock: Security</td>
+      <td>
+        Implements security measures such as access control and authentication
+      </td>
+    </tr>
+    <tr>
+      <td>:alarm_clock: Scheduler</td>
+      <td>
+        Determines which processes are executed by the CPU and for how long
+      </td>
+    </tr>
+    <tr>
+      <td>:computer: Virtualization</td>
+      <td>
+        Implements virtualization technologies to allow multiple operating
+        systems to run on a single physical machine
+      </td>
+    </tr>
+    <tr>
+      <td>:speech_balloon: Inter-Process Communication</td>
+      <td>
+        Provides mechanisms for processes to communicate with each other, such
+        as pipes and sockets
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
@@ -359,7 +424,7 @@ classDiagram
 ## Table of Contents
 
 - [:exclamation: Preview Version](#exclamation-preview-version)
-  - [:earth\_asia: Public repositories on my Github profile primarily serve hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me](#earth_asia-public-repositories-on-my-github-profile-primarily-serve-hobby-and-practice-purposes-if-you-are-looking-for-real-world-projects-please-do-not-hesitate-to-contact-me)
+  - [:earth\_asia: Public repositories on my Github profile are primarily for hobby and practice purposes. If you are looking for real-world projects, please do not hesitate to contact me](#earth_asia-public-repositories-on-my-github-profile-are-primarily-for-hobby-and-practice-purposes-if-you-are-looking-for-real-world-projects-please-do-not-hesitate-to-contact-me)
   - [ Github profilimdeki genel depolar öncelikle hobi ve pratik amaçlar için hizmet vermektedir. Gerçek dünya projeleri arıyorsanız, lütfen benimle iletişime geçmekten çekinmeyin](#-github-profilimdeki-genel-depolar-öncelikle-hobi-ve-pratik-amaçlar-için-hizmet-vermektedir-gerçek-dünya-projeleri-arıyorsanız-lütfen-benimle-iletişime-geçmekten-çekinmeyin)
   - [Currently Using](#currently-using)
   - [I've knowledge of](#ive-knowledge-of)
