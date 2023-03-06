@@ -182,10 +182,6 @@ console.log('Welcome here');
 
 ![Safarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=safarli&show_icons=true&theme=cobalt)
 
-## My daily.dev DevCard
-
-<a href="https://app.daily.dev/safarli"><img src="./devcard.svg" height="300" alt="Bendali Safarli's Dev Card"/></a>
-
 ---
 
 <br>
